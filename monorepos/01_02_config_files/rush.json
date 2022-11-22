@@ -296,7 +296,7 @@
     //    * The folder name for this variant.
     //    */
     //   "variantName": "old-sdk",
-    // 
+    //
     //   /**
     //    * An informative description
     //    */
@@ -319,10 +319,10 @@
    */
   // "hotfixChangeEnabled": false,
   /**
-    * This is an optional, but recommended, list of available tags that can be applied
-    * to projects. If this property is not specified, any tag is allowed. This
-    * list is useful in preventing typos when specifying tags for projects.
-    */
+   * This is an optional, but recommended, list of available tags that can be applied
+   * to projects. If this property is not specified, any tag is allowed. This
+   * list is useful in preventing typos when specifying tags for projects.
+   */
   // "allowedProjectTags": [ "apps", "Web", "tools" ],
   /**
    * (Required) This is the inventory of projects to be managed by Rush.
@@ -334,8 +334,16 @@
    */
   "projects": [
     {
-      "packageName": "",
-      "projectFolder": ""
+      "packageName": "customers",
+      "projectFolder": "apps/customers"
+    },
+    {
+      "packageName": "finance",
+      "projectFolder": "apps/finance"
+    },
+    {
+      "packageName": "shop",
+      "projectFolder": "apps/shop"
     }
   ]
 }
