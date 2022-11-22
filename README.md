@@ -14,3 +14,4 @@ Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learn
 [lil-course-url]: https://www.linkedin.com/learning/building-monorepos-on-github-17060348
 [lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQFhDmiByitrFw/learning-public-crop_675_1200/0/1667582740341?e=1668438000&v=beta&t=Mbmz2SrR_U_gizXahb9kxKcs5eV84DeJLfVhxogjYVY
 [gcs-video-url]: https://www.linkedin.com/learning/building-monorepos-on-github-17060348/using-github-codespaces-with-this-course
+yassine
